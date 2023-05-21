@@ -24,10 +24,10 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: devabnerugeda@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="gmail.png">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-      <img width="25" src="linkedin.svg">
+    <a href = "https://www.linkedin.com/in/abner-ugeda/">
+      <img width="25" src="linkedin.png">
     </a>
 </div>
   
