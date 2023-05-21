@@ -11,23 +11,22 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+    <img align="center" height="30" width="40" alt="python-icon"  src="python.png">
+    <img align="center" height="30" width="40" alt="flutter-icon"  src="flutter.svg">
+    <img align="center" height="30" width="40" alt="java-icon"  src="java.png">
+    <img align="center" height="30" width="40" alt="kotlin-icon"  src="kotlin.svg">
+    <img align="center" height="30" width="40" alt="csharp-icon"  src="csharp.svg">
+    <img align="center" height="30" width="40" alt="android-icon"  src="android.svg">
       
    </div>
     
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: devabnerugeda@gmail.com">
-      <img width="30" src="gmail.png">
+      <img width="40" src="gmail.png">
     </a>
     <a href = "https://www.linkedin.com/in/abner-ugeda/">
-      <img width="25" src="linkedin.png">
+      <img width="40" src="linkedin.png">
     </a>
 </div>
   
