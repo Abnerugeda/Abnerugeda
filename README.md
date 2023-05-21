@@ -9,7 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="300" alt="coding-time" src="programming.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="40" width="40" alt="python-icon"  src="python.png">
     <img align="center" height="40" width="40" alt="flutter-icon"  src="flutter.svg">
@@ -18,8 +18,6 @@
     <img align="center" height="40" width="40" alt="csharp-icon"  src="csharp.svg">
     <img align="center" height="40" width="40" alt="android-icon"  src="android.svg">
    </div>
-  
-  ![programming gif](programming.gif)
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: devabnerugeda@gmail.com">
       <img width="40" src="gmail.png">
