@@ -17,10 +17,9 @@
     <img align="center" height="40" width="40" alt="kotlin-icon"  src="kotlin.svg">
     <img align="center" height="40" width="40" alt="csharp-icon"  src="csharp.svg">
     <img align="center" height="40" width="40" alt="android-icon"  src="android.svg">
-      
    </div>
-    
   
+  ![programming gif](programming.gif)
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: devabnerugeda@gmail.com">
       <img width="40" src="gmail.png">
