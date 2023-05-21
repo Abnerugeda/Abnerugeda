@@ -11,12 +11,12 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="python-icon"  src="python.png">
-    <img align="center" height="30" width="40" alt="flutter-icon"  src="flutter.svg">
-    <img align="center" height="30" width="40" alt="java-icon"  src="java.png">
-    <img align="center" height="30" width="40" alt="kotlin-icon"  src="kotlin.svg">
-    <img align="center" height="30" width="40" alt="csharp-icon"  src="csharp.svg">
-    <img align="center" height="30" width="40" alt="android-icon"  src="android.svg">
+    <img align="center" height="40" width="40" alt="python-icon"  src="python.png">
+    <img align="center" height="40" width="40" alt="flutter-icon"  src="flutter.svg">
+    <img align="center" height="40" width="40" alt="java-icon"  src="java.png">
+    <img align="center" height="40" width="40" alt="kotlin-icon"  src="kotlin.svg">
+    <img align="center" height="40" width="40" alt="csharp-icon"  src="csharp.svg">
+    <img align="center" height="40" width="40" alt="android-icon"  src="android.svg">
       
    </div>
     
