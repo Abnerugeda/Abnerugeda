@@ -1,9 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Welcome!+;I'm+Abner+Ugeda,+Full-Stack+Developer;Linux+>+ALL.)](https://git.io/typing-svg)
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnerugeda&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnerugeda&count_private=true&show_icons=true&theme=chartreuse-dark"/>
   
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerugeda&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img  align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerugeda&theme=chartreuse-dark&layout=compact"/>
+  
 </div>
 <br>
 
