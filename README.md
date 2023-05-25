@@ -18,6 +18,8 @@
     <img align="center" height="40" width="40" alt="kotlin-icon"  src="kotlin.svg">
     <img align="center" height="40" width="40" alt="csharp-icon"  src="csharp.svg">
     <img align="center" height="40" width="40" alt="android-icon"  src="android.svg">
+    <img align="center" height="40" width="40" alt="react-icon"  src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png">
+      
    </div>
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: devabnerugeda@gmail.com">
