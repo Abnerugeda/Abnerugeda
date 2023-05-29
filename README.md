@@ -11,7 +11,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="300" alt="coding-time" src="programming.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
+    <h1 align="center">Melhores Tecnologias ❤</h1>
     <img align="center" height="40" width="40" alt="python-icon"  src="python.png">
     <img align="center" height="40" width="40" alt="flutter-icon"  src="flutter.svg">
     <img align="center" height="40" width="40" alt="java-icon"  src="java.png">
