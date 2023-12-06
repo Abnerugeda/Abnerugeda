@@ -18,6 +18,7 @@
     <img align="center" height="40" width="40" alt="kotlin-icon"  src="kotlin.svg">
     <img align="center" height="40" width="40" alt="csharp-icon"  src="csharp.svg">
     <img align="center" height="40" width="40" alt="android-icon"  src="android.svg">
+    <img align="center" height="40" width="40" alt="laravel-icon"  src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png">
     <img align="center" height="40" width="40" alt="react-icon"  src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/>
  
