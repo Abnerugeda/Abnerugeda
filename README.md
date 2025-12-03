@@ -13,7 +13,7 @@
     <img align="center" height="40" width="40" alt="rabbitmq-icon"  src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg">
     <img align="center" height="40" width="40" alt="springboot-icon"  src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
     <img align="center" height="40" width="40" alt="nodejs-icon"  src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-    <img align="center" height="40" width="40" alt="kafka-icon"  src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg">
+    <img align="center" height="40" width="40" alt="kafka-icon"  src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21~bgwhite.svg">
     <h1 align="center">Front ❤</h1>
     <img align="center" height="40" width="40" alt="react-icon"  src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png">
     <img align="center" height="40" width="40" alt="flutter-icon"  src="flutter.svg">
