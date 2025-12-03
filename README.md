@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Welcome!+;I'm+Abner+Ugeda,+Full-Stack+Developer;Linux+>+ALL.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Welcome!+;I'm+Abner+Ugeda,+Full-Stack+Developer.)](https://git.io/typing-svg)
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnerugeda&count_private=true&show_icons=true&theme=chartreuse-dark"/>
@@ -31,5 +31,3 @@
       <img width="40" src="linkedin.png">
     </a>
 </div>
-  
-![Snake animation](https://github.com/Abnerugeda/Abnerugeda/blob/output/github-contribution-grid-snake.svg)
