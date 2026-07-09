@@ -78,6 +78,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/DDD-Domain--Driven--Design-2E3440?style=for-the-badge" alt="DDD"/>
   <img src="https://img.shields.io/badge/Event_Storming-2E3440?style=for-the-badge" alt="Event Storming"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-2E3440?style=for-the-badge" alt="Event Storming"/>
+  <img src="https://img.shields.io/badge/Hexagonal-2E3440?style=for-the-badge" alt="Event Storming"/>
 </p>
 
 <br>
