@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+Welcome!;I'm+Abner+Ugeda%2C+Full-Stack+Developer.;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+Welcome!;I'm+Abner+Ugeda%2C+Full-Stack+Developer.)](https://git.io/typing-svg)
 
 <div align="center">
   <img height="280" alt="coding-time" src="programming.gif">
