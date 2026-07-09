@@ -88,24 +88,6 @@
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Abnerugeda&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abnerugeda&theme=tokyonight&hide_border=true" alt="Streak de contribuições"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abnerugeda&theme=tokyo-night&hide_border=true" alt="Gráfico de atividade"/>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abnerugeda&theme=tokyonight&no-frame=true&row=1" alt="Troféus do GitHub"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Abnerugeda/Abnerugeda/output/github-contribution-grid-snake.svg" alt="Snake de contribuições"/>
-</div>
-
 <br>
 
 ## 📫 Contato
