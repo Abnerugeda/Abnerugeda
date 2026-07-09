@@ -84,10 +84,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abnerugeda&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnerugeda&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abnerugeda&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Abnerugeda&theme=tokyonight&hide_border=true" alt="Streak de contribuições"/>
