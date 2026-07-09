@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+Welcome!;I'm+Abner+Ugeda%2C+Full-Stack+Developer.)](https://git.io/typing-svg)
 
-<div align="center">
-  <img height="280" alt="coding-time" src="programming.gif">
-</div>
-
 ### 👋 Sobre mim
 
 - 💻 Desenvolvedor Full-Stack, atuando do front ao back, passando por mobile, dados e infraestrutura.
@@ -94,7 +90,17 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abnerugeda&theme=tokyonight&hide_border=true" alt="Streak de contribuições"/>
+  <img src="https://streak-stats.demolab.com/?user=Abnerugeda&theme=tokyonight&hide_border=true" alt="Streak de contribuições"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abnerugeda&theme=tokyo-night&hide_border=true" alt="Gráfico de atividade"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Abnerugeda&theme=tokyonight&no-frame=true&row=1" alt="Troféus do GitHub"/>
+  </a>
 </div>
 
 <div align="center">
