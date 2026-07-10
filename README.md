@@ -3,7 +3,7 @@
 ### 👋 Sobre mim
 
 - 💻 Desenvolvedor Full-Stack, atuando do front ao back, passando por mobile, dados e infraestrutura.
-- 🏗️ Gosto de projetos que envolvem arquitetura de software, DDD e Event Storming.
+- 🏗️ Gosto de projetos que envolvem arquitetura de software.
 - ☁️ Experiência com containers, orquestração e observabilidade em ambientes cloud.
 - 📚 Sempre estudando novas linguagens e stacks — atualmente de olho em Go e Rust.
 
